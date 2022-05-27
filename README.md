@@ -3,17 +3,11 @@
 
 **Guia de Edição Readme** 
 
----
-
-Guia de edição de Readme com linguagem Markdown e HTML
-
-
-
 <h2 align="left"> 
 
-1.	**No Git Hub** – Criar um novo Repositório deixando ele público para que qualquer pessoa na internet possa ver. Adicione um arquivo Readme, para podermos escrever uma longa descrição para o projeto criado.
-2.	Copia o código do repositório. Crie uma pasta no Computador, dentro da pasta abra o **Git Bash here**. Digita *git clone* e cola o código copiado do repositório. **Pronto já está sincronizado**.
-3.	Dentro da pasta criada vai aparecer o arquivo **README.md**, que permite edição com linguagem **Markdown e HTML**. Faremos tudo dentro do **VS CODE**.
+- **No Git Hub** – Criar um novo Repositório deixando ele público para que qualquer pessoa na internet possa ver. Adicione um arquivo Readme, para podermos escrever uma longa descrição para o projeto criado.
+-	Copia o código do repositório. Crie uma pasta no Computador, dentro da pasta abra o **Git Bash here**. Digita *git clone* e cola o código copiado do repositório. **Pronto já está sincronizado**.
+-	Dentro da pasta criada vai aparecer o arquivo **README.md**, que permite edição com linguagem **Markdown e HTML**. Faremos tudo dentro do **VS CODE**.
 
 ---
 <h1 align="center"> 
@@ -24,6 +18,7 @@ Linguagem Markdown e HTML
 - **###** ou <**h2**> - Aumenta de diminui o tamanho da fonte, alterando as quantidades de **#** ou o número do **h2**, tendo o limite máximo de **6**;
 
 ---
+
 ## Título
 ### Título
 #### Título
@@ -97,6 +92,7 @@ void main (){
 ---
 [<center><h1>Linkedin](https://www.linkedin.com/in/rodrigotbass/)</center>
 
+<h2 align="left">
 
 - **[**nomeImagem**]**: https://www.exemplo.com.br – adiciono uma imagem;
 ---
