@@ -1,7 +1,7 @@
 [imagemCapa]: https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Imagem%20introdu%C3%A7%C3%A3o.png?raw=true
 ![][imagemCapa]
 
-[imagemCapa2]:https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Markedown%20e%20HTML%202.png?raw=true
+[imagemCapa2]:https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Markedown%20e%20HTML%203.png?raw=true
 <h1 align="center"> 
 
 
@@ -11,6 +11,10 @@
 - **No Git Hub** – Criar um novo Repositório deixando ele público para que qualquer pessoa na internet possa ver. Adicione um arquivo Readme, para podermos escrever uma longa descrição para o projeto criado.
 -	Copia o código do repositório. Crie uma pasta no Computador, dentro da pasta abra o **Git Bash here**. Digita *git clone* e cola o código copiado do repositório. **Pronto já está sincronizado**.
 -	Dentro da pasta criada vai aparecer o arquivo **README.md**, que permite edição com linguagem **Markdown e HTML**. Faremos tudo dentro do **VS CODE**.
+
+</h2>
+
+---
 
 <h1 align="center"> 
 
