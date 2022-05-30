@@ -48,6 +48,7 @@ Linguagem Markdown e HTML
 
 - **<**center**>** -  Centraliza o próximo item;
 ---
+
 <center> Palavra </center>
 
 ---
