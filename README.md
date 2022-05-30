@@ -1,3 +1,5 @@
+[imagemCapa]: https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Imagem%20introdu%C3%A7%C3%A3o.png?raw=true
+![][imagemCapa]
 
 <h1 align="center"> 
 
@@ -105,5 +107,5 @@ void main (){
 - **![ ][**nomeImagem**]** – chamo a imagem adicionada.
 ---
 
-![ ][nomeImagem]
+![][imagemCapa]
 
