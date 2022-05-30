@@ -1,11 +1,10 @@
 [imagemCapa]: https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Imagem%20introdu%C3%A7%C3%A3o.png?raw=true
 ![][imagemCapa]
 
-[imagemCapa2]:https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Markdown%20e%20HTML.png?raw=true
-
+[imagemCapa2]:https://github.com/RodrigoSaymon/Guia-de-Edicao-Readme/blob/main/src/assets/Markedown%20e%20HTML%202.png?raw=true
 <h1 align="center"> 
 
-**Guia de Edição Readme** 
+
 
 <h2 align="left"> 
 
@@ -13,9 +12,8 @@
 -	Copia o código do repositório. Crie uma pasta no Computador, dentro da pasta abra o **Git Bash here**. Digita *git clone* e cola o código copiado do repositório. **Pronto já está sincronizado**.
 -	Dentro da pasta criada vai aparecer o arquivo **README.md**, que permite edição com linguagem **Markdown e HTML**. Faremos tudo dentro do **VS CODE**.
 
----
 <h1 align="center"> 
-Linguagem Markdown e HTML
+
 
 ![][imagemCapa2]
 
