@@ -49,9 +49,9 @@ Linguagem Markdown e HTML
 - **<**center**>** -  Centraliza o próximo item;
 ---
 
-<center> Palavra 
+<h2 align="center">  Palavra 
 
-</center>
+<h2 align="left">
 
 ---
 
